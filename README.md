@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 📝 I regularly write articles on [beytullahtemur.com](beytullahtemur.com)
-
 - 💬 Ask me about **dart, flutter, javascript, tailwindcss**
 
 - 📫 How to reach me **beytitemur@gmail.com**
